@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amit</h1>
+ <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiku3203&label=Profile%20views&color=0e75b6&style=flat" alt="amiku3203" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kumaramit28538@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/safety/go?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1kv-DO1DVUe0AdQEBVgw7J6oR22F91ztE%2Fview%3Fusp%3Ddrivesdk&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-MzQwM2E2NGEtNTFmZi00NzAyLTlmZTEtMTlkZjU2YzEyZWIxXzAxMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B%2FInsthFARICXmDK911qooA%3D%3D](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1kv-DO1DVUe0AdQEBVgw7J6oR22F91ztE%2Fview%3Fusp%3Ddrivesdk&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-MzQwM2E2NGEtNTFmZi00NzAyLTlmZTEtMTlkZjU2YzEyZWIxXzAxMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B%2FInsthFARICXmDK911qooA%3D%3D)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kv-DO1DVUe0AdQEBVgw7J6oR22F91ztE/view](https://drive.google.com/file/d/1kv-DO1DVUe0AdQEBVgw7J6oR22F91ztE/view)
 
 - ⚡ Fun fact **I think i can x**
 
