@@ -35,7 +35,7 @@
  <h3 align="left">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,c++,html,css,saas" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,html,css,saas" />
   </a>
 </p>
 
