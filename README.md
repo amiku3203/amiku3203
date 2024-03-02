@@ -9,7 +9,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amiku3203" alt="amiku3203" /></a>
 </p>
 
-- 🔭 I’m currently working on [Hotel Booking App](https://merntestf.onrender.com)
+- 🔭 I’m currently working on [Hotel Booking App](https://heavenhotelbooking.onrender.com)
 
 - 📝 I regularly write articles on [CodeFetch Insights](https://codefetch-inshights-amit.vercel.app/)
 
