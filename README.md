@@ -1,6 +1,4 @@
-Here’s the updated version of your profile based on your resume data:
-
----
+ 
 
 <h1 align="center">Hi there, I'm Amit Kumar! 👋</h1>
 <h3 align="center">Passionate Full Stack Developer from Noida, India</h3>
@@ -20,7 +18,7 @@ Here’s the updated version of your profile based on your resume data:
   - **Hotel Booking App:** A MERN stack application with integrated Stripe for secure payments, improving payment processing efficiency by 30%.
   - **Website Builder:** Designed a user-friendly platform for creating SEO-optimized websites in 15 minutes, tailored for Real Estate and E-commerce industries.
   - **Virtual WorkSpace:** Developed a real-time whiteboard platform with advanced collaboration features, driving a 25% increase in user engagement.
-- 📝 I regularly write articles on [CodeFetch Insights](https://codefetch-inshights-amit.vercel.app/)
+- 📝 I regularly write articles on [devamit.tech](https://devamit.tech/)
 
 - 💬 Ask me about **React, Next.js, JavaScript, C++, Data Structures, and Algorithms**
 
@@ -114,6 +112,4 @@ Here’s the updated version of your profile based on your resume data:
 **Chhatrapati Shahu Ji Maharaj University, Kanpur, India**  
 *Bachelor of Technology in Computer Science* (Nov 2020 – May 2024)
 
----
-
-This version includes all the updated details, skills, experience, and projects you mentioned! Feel free to further tweak or add anything else you'd like.
+ 
