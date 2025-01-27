@@ -1,5 +1,9 @@
- <h1 align="center">Hi there, I'm Amit Kumar! 👋</h1>
-<h3 align="center">Passionate MERN Stack Developer from India</h3>
+Here’s the updated version of your profile based on your resume data:
+
+---
+
+<h1 align="center">Hi there, I'm Amit Kumar! 👋</h1>
+<h3 align="center">Passionate Full Stack Developer from Noida, India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amiku3203&label=Profile%20views&color=0e75b6&style=flat" alt="amiku3203" />
@@ -11,17 +15,11 @@
   </a>
 </p>
 
-- 🔭 I’m currently working at **Bizto India** as a Full Stack Developer, contributing to live production projects like:
-  - [biz.biztoindia.in](https://biz.biztoindia.in)
-  - [bamboochickmaker.online](https://bamboochickmaker.online)
-  - [fairfoxeonnoida.online](https://fairfoxeonnoida.online)
-  - [prestigesidhharthvihar.com](https://prestigesidhharthvihar.com)
-
+- 🔭 I’m currently working at **Wishgeekstechserve** as a Full Stack Developer, leading the development of high-performance, scalable MERN stack applications. Previously, I worked at **Bizto India** as a Full Stack Developer.
 - 🌟 **Notable Projects:**
-  - **Hotel Booking App:** A MERN stack application integrating Stripe for secure payments, improving payment processing efficiency by 30%.
+  - **Hotel Booking App:** A MERN stack application with integrated Stripe for secure payments, improving payment processing efficiency by 30%.
   - **Website Builder:** Designed a user-friendly platform for creating SEO-optimized websites in 15 minutes, tailored for Real Estate and E-commerce industries.
   - **Virtual WorkSpace:** Developed a real-time whiteboard platform with advanced collaboration features, driving a 25% increase in user engagement.
-
 - 📝 I regularly write articles on [CodeFetch Insights](https://codefetch-inshights-amit.vercel.app/)
 
 - 💬 Ask me about **React, Next.js, JavaScript, C++, Data Structures, and Algorithms**
@@ -90,3 +88,32 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiku3203&" alt="amiku3203" />
 </p>
+
+---
+
+### Experience:
+
+**Wishgeekstechserve** (Dec 2024 – Present)  
+*Full Stack Developer*  
+- Spearheading dynamic web application development using MERN stack (MongoDB, Express.js, React.js, Node.js).
+- Utilizing Git for version control and managing CI/CD pipelines for efficient releases.
+
+**Bizto India** (Jan 2024 – Dec 2024)  
+*Full Stack Developer*  
+- Worked on dynamic MERN stack web applications, ensuring performance and scalability.
+- Collaborated with teams to deliver SEO-friendly, high-performance solutions.
+
+**Coding Ninjas** (Apr 2023 – Jul 2023)  
+*Teaching Assistant (Full Stack)*  
+- Mentored students in front-end technologies like React and JavaScript, achieving 95% satisfaction rate.
+
+---
+
+### Education:
+
+**Chhatrapati Shahu Ji Maharaj University, Kanpur, India**  
+*Bachelor of Technology in Computer Science* (Nov 2020 – May 2024)
+
+---
+
+This version includes all the updated details, skills, experience, and projects you mentioned! Feel free to further tweak or add anything else you'd like.
