@@ -73,7 +73,11 @@
 </p>
 
 ---
- <h3 align="left">GitHub Stats:</h3> <p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiku3203&show_icons=true&locale=en&layout=compact" alt="amiku3203" /> </p> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=amiku3203&show_icons=true&locale=en" alt="amiku3203" /> </p> <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiku3203" alt="amiku3203" /> </p>
+ <h3 align="left">GitHub Stats:</h3> <p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiku3203&show_icons=true&locale=en&layout=compact" alt="amiku3203" /> </p> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=amiku3203&show_icons=true&locale=en" alt="amiku3203" /> </p>  
+ <p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiku3203" alt="amiku3203" />
+</p>
+
 
 ---
 
